@@ -1,2 +1,2 @@
 # Basic HTML Website
- Create simple HTML only website with multiple pages.
+ Création d'une simple page HTML comme point de départ d'un site internet avec plusieurs page avec comme source d'inspiration cette page: https://roadmap.sh/projects/basic-html-website
